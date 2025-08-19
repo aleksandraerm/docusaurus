@@ -12,7 +12,7 @@ import {themes as prismThemes} from 'prism-react-renderer';
 const config = {
   title: 'Александра Ефимова',
   tagline: 'Технический писатель',
-  favicon: 'img/favicon.ico',
+  favicon: 'img/kniga.ico',
 
   // Future flags, see https://docusaurus.io/docs/api/docusaurus-config#future
   future: {
@@ -79,7 +79,7 @@ const config = {
     /** @type {import('@docusaurus/preset-classic').ThemeConfig} */
     ({
       // Replace with your project's social card
-      image: 'img/docusaurus-social-card.jpg',
+      image: '',
       navbar: {
         title: '',
         logo: {
